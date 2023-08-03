@@ -1,0 +1,1 @@
+The uname command in Ubuntu (and other Linux-based systems) is used to display system information. It has various options that allow you to retrieve specific information about the kernel, operating system, and machine.
